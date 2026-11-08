@@ -1,0 +1,1081 @@
+category,word,previous_hint,v2_hint,decision,review_note
+Food,Pizza,Cheesy and shareable,Cheesy and shareable,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Sushi,Small rolls,Seafood and rice,changed,Reduce a near-definition to ingredients shared with other dishes.
+Food,Steak,Sizzling dinner,Sizzling dinner,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Ramen,Warm broth,Warm broth,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Tacos,Folded filling,Folded filling,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Pasta,Twirl and sauce,Twirl and sauce,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Dumplings,Savory filling,Savory filling,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Burger,Stacked lunch,Stacked lunch,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Pancakes,Breakfast stack,Breakfast stack,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Waffles,Crisp breakfast,Crisp breakfast,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Lasagna,Baked layers,Baked layers,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Burrito,Wrapped lunch,Wrapped lunch,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Nachos,Crunchy sharing,Crunchy sharing,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Croissant,Flaky breakfast,Flaky breakfast,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Curry,Spiced sauce,Spiced sauce,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Mac and Cheese,Creamy comfort,Creamy comfort,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Falafel,Savory bites,Savory bites,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Hummus,Savory dip,Savory dip,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Pad Thai,Stir-fried noodles,Stir-fried noodles,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,French Fries,Salty side,Salty side,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Cheesecake,Creamy dessert,Creamy dessert,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Brownie,Chocolate treat,Chocolate treat,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Guacamole,Creamy dip,Creamy dip,retained,"Retains an ingredient, texture, or eating context with plausible alternative foods."
+Food,Popcorn,Movie snack,Salty snack,changed,Remove the uniquely identifying movie association.
+Drinks,Coffee,Morning caffeine,Morning caffeine,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Coca-Cola,Sweet bubbles,Sweet bubbles,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Lemonade,Citrus refreshment,Citrus refreshment,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Milkshake,Creamy treat,Creamy treat,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Smoothie,Blended fruit,Blended fruit,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Tea,Warm cup,Warm cup,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Orange Juice,Breakfast fruit,Breakfast fruit,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Hot Chocolate,Cozy sweetness,Cozy sweetness,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Root Beer,Sweet fizz,Sweet fizz,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Matcha,Green caffeine,Green caffeine,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Bubble Tea,Sweet chewy treat,Sweet cafe drink,changed,Remove the distinctive chewy-texture giveaway.
+Drinks,Espresso,Concentrated caffeine,Concentrated caffeine,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Cappuccino,Frothy coffee,Frothy coffee,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Chai,Warm spices,Warm spices,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Apple Cider,Autumn drink,Autumn drink,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Kombucha,Tangy bubbles,Tangy bubbles,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Coconut Water,Tropical hydration,Tropical hydration,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Ginger Ale,Mild bubbles,Mild bubbles,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Seltzer,Light fizz,Light fizz,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Gatorade,After exercise,After exercise,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Red Bull,Late-night energy,Late-night energy,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Horchata,Sweet spices,Sweet spices,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Mojito,Herbal refreshment,Herbal refreshment,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Drinks,Margarita,Citrus cocktail,Citrus cocktail,retained,"Retains a flavor, texture, or occasion shared with other drinks."
+Fast Food,McDonald's,Classic burger stop,Classic burger stop,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Chipotle,Build your bowl,Build your bowl,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Chick-fil-A,Chicken lunch,Chicken lunch,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Taco Bell,Late-night cravings,Late-night cravings,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Wendy's,Burger combo,Burger combo,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Burger King,Grilled burgers,Grilled burgers,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Subway,Build your lunch,Build your lunch,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Popeyes,Crispy chicken,Crispy chicken,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,KFC,Chicken for a group,Chicken for a group,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,In-N-Out,West Coast burgers,West Coast burgers,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Five Guys,Made-to-order burgers,Made-to-order burgers,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Shake Shack,Burgers and shakes,Burgers and shakes,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Sonic,Drive-in snacks,Drive-in snacks,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Arby's,Meaty sandwiches,Meaty sandwiches,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Dunkin',Coffee run,Coffee run,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Little Caesars,Pizza for a group,Pizza for a group,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Dairy Queen,Frozen treats,Frozen treats,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Raising Cane's,Chicken and dipping,Chicken and dipping,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Pizza Hut,Pizza delivery,Pizza delivery,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Domino's,Pizza delivery,Pizza delivery,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Starbucks,Coffee break,Coffee break,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Papa Johns,Pizza night,Pizza night,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,Panda Express,Quick rice bowl,Quick rice bowl,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Fast Food,White Castle,Tiny burgers,Tiny burgers,retained,Retains a cuisine or ordering context; avoids slogans and logo giveaways.
+Restaurants & Dining,Olive Garden,Family dinner,Italian-American dinner,changed,Make the setting useful without naming a signature item.
+Restaurants & Dining,Applebee's,Casual dinner deals,Casual dinner deals,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Chili's,Casual Tex-Mex,Casual Tex-Mex,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,The Cheesecake Factory,Dinner and dessert,Dinner and dessert,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Texas Roadhouse,Steak night,Steak night,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Outback Steakhouse,Steak night,Steak night,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Red Lobster,Seafood dinner,Seafood dinner,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,IHOP,Breakfast plates,Breakfast plates,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Denny's,Late-night breakfast,Late-night breakfast,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Waffle House,Casual breakfast,Casual breakfast,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Cracker Barrel,Road-trip comfort food,Road-trip comfort food,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Buffalo Wild Wings,Watching the game,Watching the game,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,TGI Fridays,Casual dinner,Casual dinner,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Red Robin,Burger night,Burger night,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Sushi Bar,Small plates,Small plates,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Diner,Casual comfort food,Casual comfort food,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Steakhouse,Special dinner,Special dinner,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Food Truck,Street-side meal,Street-side meal,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Salad Bar,Build your plate,Build your plate,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Brunch,Weekend meal,Weekend meal,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Panera Bread,Soup and lunch,Soup and lunch,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Buffet,Choose your portions,Choose your portions,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Outdoor Patio,Fresh-air meal,Fresh-air meal,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Restaurants & Dining,Sports Bar,Watching the game,Watching the game,retained,Retains a meal or venue context; multiple dining choices remain plausible.
+Cards & Party Games,Poker,Reading people,Reading people,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Blackjack,Stop or risk it,Managing a total,changed,Replace a generic risk description with an indirect game mechanic.
+Cards & Party Games,UNO,Changing colors,Changing colors,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Solitaire,Solo challenge,Solo challenge,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Go Fish,Asking opponents,Asking opponents,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Texas Hold'em,Shared cards,Shared cards,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Crazy Eights,Match and discard,Match and discard,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,War (Card Game),Higher card wins,Higher card wins,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Hearts (Card Game),Avoid penalties,Avoid penalties,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Spades,Playing in pairs,Playing in pairs,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Cards Against Humanity,Outrageous answers,Outrageous answers,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Musical Chairs,React before others,React before others,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Charades,Act it out,Act it out,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,What Do You Meme?,Funny combinations,Funny combinations,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Apples to Apples,Funny comparisons,Funny comparisons,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Truth or Dare,Personal challenges,Personal challenges,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Never Have I Ever,Personal stories,Personal stories,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Two Truths and a Lie,Spot the lie,Testing personal stories,changed,Remove title vocabulary from the hint.
+Cards & Party Games,Spoons,Grab quickly,Grab quickly,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Heads Up!,Guess from friends,Guess from friends,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Would You Rather,Pick a side,Pick a side,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Taboo,Describe carefully,Describe carefully,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Catch Phrase,Describe quickly,Describe quickly,retained,Retains an accessible mechanic without naming the game or its exact objective.
+Cards & Party Games,Spin the Bottle,Group circle,Chance-based flirting,changed,A circle alone did not convey the game context.
+Board Games,Monopoly,Money and competition,Money and competition,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Chess,Plan your moves,Plan your moves,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Catan,Trading resources,Trading resources,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Clue,Solving a mystery,Solving a mystery,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Scrabble,Build with letters,Build with letters,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Risk,Taking territory,Taking territory,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Ticket to Ride,Connect destinations,Connect destinations,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Sorry!,Back to the start,Back to the start,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Battleship,Hidden targets,Hidden targets,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Connect Four,Make a pattern,Aligning pieces,changed,Narrow an overly broad pattern clue.
+Board Games,Checkers,Jump over opponents,Jump over opponents,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Dominoes,Match the ends,Match the ends,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Candy Land,Colorful path,Colorful path,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,The Game of Life,Big life choices,Big life choices,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Trivial Pursuit,Trivia night,Trivia night,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Pictionary,Sketch and guess,Sketch and guess,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Codenames,Team word clues,Team word clues,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Chutes and Ladders,Moving up and down,Moving up and down,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Jenga,Careful movement,Balancing pieces,changed,Clarify what careful movement is for.
+Board Games,Twister,Awkward positions,Awkward positions,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Trouble,Race around the board,Race around the board,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Guess Who?,Narrow the choices,Narrow the choices,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Operation,Steady hands,Steady hands,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Board Games,Boggle,Find the words,Find the words,retained,Retains a play mechanic; no proper-name or signature-component giveaway.
+Video Games,Minecraft,Building shelter,Crafting and survival,changed,Useful gameplay context without naming the distinctive block aesthetic.
+Video Games,Roblox,Player-made worlds,Player-made worlds,retained,Retains a genre or activity without a franchise character or title.
+Video Games,Fortnite,Survive the match,Survive the match,retained,Retains a genre or activity without a franchise character or title.
+Video Games,Wii Sports,Living-room sports,Motion-controlled play,changed,Avoid repeating the title noun.
+Video Games,Just Dance,Follow the music,Follow the music,retained,Retains a genre or activity without a franchise character or title.
+Video Games,Mario Kart,Chaotic racing,Chaotic racing,retained,Retains a genre or activity without a franchise character or title.
+Video Games,Among Us,Trust and sabotage,Trust and sabotage,retained,Retains a genre or activity without a franchise character or title.
+Video Games,Candy Crush,Matching colors,Matching colors,retained,Retains a genre or activity without a franchise character or title.
+Video Games,Animal Crossing,Build a cozy life,Build a cozy life,retained,Retains a genre or activity without a franchise character or title.
+Video Games,The Sims,Manage daily life,Manage daily life,retained,Retains a genre or activity without a franchise character or title.
+Video Games,Grand Theft Auto,City adventures,City adventures,retained,Retains a genre or activity without a franchise character or title.
+Video Games,Call of Duty,Military teamwork,Military teamwork,retained,Retains a genre or activity without a franchise character or title.
+Video Games,NBA 2K,Virtual sports,Virtual court,changed,Specify the kind of sport without a league abbreviation.
+Video Games,Overwatch,Hero teamwork,Hero teamwork,retained,Retains a genre or activity without a franchise character or title.
+Video Games,League of Legends,Team strategy,Team strategy,retained,Retains a genre or activity without a franchise character or title.
+Video Games,Rocket League,Cars and competition,Cars and competition,retained,Retains a genre or activity without a franchise character or title.
+Video Games,Tetris,Falling pieces,Falling pieces,retained,Retains a genre or activity without a franchise character or title.
+Video Games,Pac-Man,Chase and escape,Chase and escape,retained,Retains a genre or activity without a franchise character or title.
+Video Games,Pokémon GO,Explore outside,Explore outside,retained,Retains a genre or activity without a franchise character or title.
+Video Games,Sonic the Hedgehog,Fast platforming,Fast platforming,retained,Retains a genre or activity without a franchise character or title.
+Video Games,Pokémon,Creature collecting,Creature collecting,retained,Retains a genre or activity without a franchise character or title.
+Video Games,The Legend of Zelda,Fantasy exploration,Fantasy exploration,retained,Retains a genre or activity without a franchise character or title.
+Video Games,Super Smash Bros.,Knock opponents away,Knock opponents away,retained,Retains a genre or activity without a franchise character or title.
+Video Games,Fall Guys,Chaotic obstacles,Chaotic obstacles,retained,Retains a genre or activity without a franchise character or title.
+Sports,Basketball,Teamwork,Indoor passing,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Football,Contact,Full-contact teamwork,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Baseball,Summer,Bat-and-ball innings,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Hockey,Physical,Fast rink play,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Golf,Outdoors,Precision swings,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Tennis,Back and forth,Racket rallies,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Soccer,Teamwork,Footwork and passing,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Volleyball,Teamwork,Airborne teamwork,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Swimming,Training,Pool endurance,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Boxing,Contact,Gloved rounds,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Wrestling,Contact,Mat grappling,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Gymnastics,Balance,Controlled routines,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Skiing,Balance,Downhill turns,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Snowboarding,Balance,Sideways downhill,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Surfing,Balance,Riding water,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Skateboarding,Balance,Concrete tricks,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Lacrosse,Teamwork,Net-pocket passing,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Rugby,Contact,Contact and carrying,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Cricket,Batting,Bat-and-ball overs,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Badminton,Back and forth,Lightweight rallies,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Table Tennis,Back and forth,Small-table rallies,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Bowling,Indoors,Rolling for accuracy,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Archery,Focus,Target practice,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Sports,Fencing,Quick reactions,Blade duels,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,LeBron James,Basketball,Long basketball career,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Lionel Messi,Soccer,Argentine playmaker,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Cristiano Ronaldo,Soccer,Portuguese goal scorer,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Stephen Curry,Basketball,Long-range shooter,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Serena Williams,Championships,Powerful tennis champion,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Simone Biles,Olympics,Acrobatic Olympic champion,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Michael Jordan,Championships,Chicago basketball era,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Kobe Bryant,Basketball,Los Angeles scoring legend,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Tom Brady,Championships,Long quarterback career,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Patrick Mahomes,Football,Improvising quarterback,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Travis Kelce,Football,Pass-catching football star,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Shaquille O'Neal,Basketball,Dominant basketball center,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Kevin Durant,Basketball,Tall scoring forward,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Giannis Antetokounmpo,Basketball,Greek basketball star,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Luka Dončić,Playmaker,European court playmaker,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Nikola Jokić,Playmaker,Passing basketball center,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Caitlin Clark,Basketball,Long-range college star,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Naomi Osaka,Tennis,Hard-court tennis champion,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Rafael Nadal,Tennis,Clay-court specialist,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Roger Federer,Tennis,Swiss court champion,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Usain Bolt,Olympics,Sprint champion,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Michael Phelps,Olympics,Pool medal collector,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Tiger Woods,Outdoors,Major golf champion,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Athletes,Shohei Ohtani,Baseball,Pitching and hitting,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Zendaya,Young Hollywood,Teen drama and fashion,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Timothée Chalamet,Young Hollywood,Young leading actor,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Tom Holland,British,Young action actor,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Margot Robbie,Comedy,Australian leading actress,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Leonardo DiCaprio,Award winner,Prestige movie roles,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Brad Pitt,Action movies,Hollywood leading man,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Angelina Jolie,Action movies,Action heroine roles,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Jennifer Aniston,Sitcoms,Sitcom star,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Ryan Reynolds,Comedy,Sarcastic movie roles,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Ryan Gosling,Romance,Romantic leading man,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Emma Stone,Comedy,Musical and comedy roles,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Emma Watson,British,Magic-film graduate,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Robert Pattinson,British,Brooding movie roles,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Kristen Stewart,Drama,Teen romance films,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Dwayne Johnson,Action movies,Wrestling to Hollywood,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Kevin Hart,Stand-up,Stand-up and buddy movies,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Jack Black,Comedy,Comedy and music,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Pedro Pascal,Action series,Protective television roles,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Jenna Ortega,Dark comedy,Gothic teen roles,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Sydney Sweeney,TV drama,College-age television drama,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Kim Kardashian,Reality TV,Family reality television,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Kylie Jenner,Beauty,Celebrity beauty business,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Paris Hilton,Reality TV,Socialite television era,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Celebrities,Gordon Ramsay,Food shows,High-pressure cooking shows,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Drake,Hip-hop,Toronto rap,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Kanye West,Hip-hop,Rap production,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Taylor Swift,Pop,Confessional pop songwriting,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,The Weeknd,Pop,Late-night synth pop,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Kendrick Lamar,Hip-hop,Reflective rap storytelling,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Beyoncé,Pop,Pop performance powerhouse,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Rihanna,Fashion,Island-born pop singer,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Ariana Grande,Pop,High-register pop vocals,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Billie Eilish,Pop,Intimate alternative pop,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Olivia Rodrigo,Pop,Teen heartbreak songs,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Sabrina Carpenter,Pop,Playful pop lyrics,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Harry Styles,Pop,Boy-band solo career,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Justin Bieber,Pop,Teen-pop beginnings,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Ed Sheeran,Pop,Acoustic pop ballads,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Adele,Ballads,Powerful heartbreak ballads,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Bruno Mars,Pop,Retro pop grooves,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Dua Lipa,Dance music,Disco-influenced pop,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Bad Bunny,Spanish-language,Puerto Rican urban music,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,SZA,R&B,Reflective R&B,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Frank Ocean,R&B,Intimate experimental R&B,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,"Tyler, the Creator",Hip-hop,Eccentric rap production,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Post Malone,Genre mix,Rap and country crossover,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Doja Cat,Genre mix,Playful rap-pop crossover,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Musicians,Lana Del Rey,Moody songs,Cinematic melancholy,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Movies,Shrek,Fairy-tale outsider,Fairy-tale outsider,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,Titanic,Romance and disaster,Romance and disaster,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,The Avengers,Heroes team up,Heroes team up,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,Interstellar,Space and family,Space and family,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,Frozen,Siblings and magic,Siblings and magic,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,Barbie,Identity and expectations,Identity and expectations,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,Oppenheimer,Science and consequences,Science and consequences,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,Inception,Changing reality,Changing reality,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,The Dark Knight,Hero and villain,City vigilante,changed,Hero and villain applied to almost every action film.
+Movies,The Matrix,Changing reality,Changing reality,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,Jurassic Park,Dangerous creatures,Dangerous creatures,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,Jaws,Danger near water,Danger near water,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,Mean Girls,Teen social life,Teen social life,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,Superbad,Teen friendship,Teen friendship,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,The Hangover,Friends in trouble,Friends in trouble,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,Home Alone,Holiday chaos,Holiday chaos,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,Toy Story,Unexpected friendships,Unexpected friendships,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,Finding Nemo,Family rescue,Family rescue,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,The Lion King,Growing into leadership,Growing into leadership,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,Ratatouille,Unlikely talent,Unlikely talent,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,Coco,Family memories,Family memories,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,Inside Out,Growing up,Childhood emotions,changed,Growing up alone was too broad to support clues.
+Movies,La La Land,Dreams and romance,Dreams and romance,retained,"Retains a story theme without a title, named character, or signature quote."
+Movies,Parasite,Class and secrets,Class and secrets,retained,"Retains a story theme without a title, named character, or signature quote."
+TV Shows,Breaking Bad,Crime and consequences,Crime and consequences,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,The Office,Awkward coworkers,Awkward coworkers,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,Stranger Things,Friends face danger,Small-town supernatural,changed,Narrow a vague danger clue without naming the monster or dimension.
+TV Shows,SpongeBob SquarePants,Animated neighbors,Animated neighbors,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,Friends,Friends and dating,Apartment neighbors,changed,Remove the exact title from the hint.
+TV Shows,Game of Thrones,Power struggles,Power struggles,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,House of the Dragon,Family power struggles,Dynastic rivalry,changed,Provide a shared political-fantasy context.
+TV Shows,The Last of Us,Surviving together,Surviving together,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,Euphoria,Teen drama,Teen drama,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,Wednesday,Dark school mystery,Dark school mystery,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,The Bear,Restaurant pressure,Restaurant pressure,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,Succession,Family money,Family money,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,Ted Lasso,Sports and friendship,Sports and friendship,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,Schitt's Creek,Family fresh start,Family fresh start,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,Modern Family,Family comedy,Generational comedy,changed,Remove title wording while retaining the relationship context.
+TV Shows,Brooklyn Nine-Nine,Workplace comedy,Workplace comedy,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,Parks and Recreation,Small-town workplace,Small-town workplace,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,Community,Campus friendships,Campus friendships,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,How I Met Your Mother,Dating stories,Dating stories,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,Gossip Girl,Wealthy teens,Wealthy teens,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,Gilmore Girls,Small-town family,Small-town family,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,The Bachelor,Dating competition,Dating competition,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,Survivor,Social strategy,Social strategy,retained,"Retains a relationship, setting, or theme without a named character."
+TV Shows,Squid Game,High-stakes survival,High-stakes survival,retained,"Retains a relationship, setting, or theme without a named character."
+Fictional Characters,Harry Potter,Magic-school student,Magic-school student,retained,Retains a recognizable role or trait without a name or signature catchphrase.
+Fictional Characters,Hermione Granger,Magic-school student,Studious young magician,changed,Differentiate a useful trait without a signature quote.
+Fictional Characters,Ron Weasley,Magic-school student,Loyal magical companion,changed,Differentiate the role without naming the franchise.
+Fictional Characters,Darth Vader,Space villain,Space villain,retained,Retains a recognizable role or trait without a name or signature catchphrase.
+Fictional Characters,Yoda,Wise mentor,Wise mentor,retained,Retains a recognizable role or trait without a name or signature catchphrase.
+Fictional Characters,Luke Skywalker,Space hero,Space hero,retained,Retains a recognizable role or trait without a name or signature catchphrase.
+Fictional Characters,Elsa,Magical royalty,Isolated magical royalty,changed,Make the character context more useful.
+Fictional Characters,Olaf,Comic sidekick,Cheerful winter companion,changed,Replace a generic comic-sidekick clue.
+Fictional Characters,Sherlock Holmes,Solving mysteries,Solving mysteries,retained,Retains a recognizable role or trait without a name or signature catchphrase.
+Fictional Characters,James Bond,Secret missions,Secret missions,retained,Retains a recognizable role or trait without a name or signature catchphrase.
+Fictional Characters,Indiana Jones,Treasure hunting,Treasure hunting,retained,Retains a recognizable role or trait without a name or signature catchphrase.
+Fictional Characters,Jack Sparrow,Unreliable adventurer,Unreliable adventurer,retained,Retains a recognizable role or trait without a name or signature catchphrase.
+Fictional Characters,Katniss Everdeen,Young survivor,Young survivor,retained,Retains a recognizable role or trait without a name or signature catchphrase.
+Fictional Characters,Willy Wonka,Strange inventions,Eccentric maker,changed,Strange inventions could misdirect players toward scientists.
+Fictional Characters,Cinderella,Fairy-tale royalty,Fairy-tale royalty,retained,Retains a recognizable role or trait without a name or signature catchphrase.
+Fictional Characters,Peter Pan,Never growing up,Never growing up,retained,Retains a recognizable role or trait without a name or signature catchphrase.
+Fictional Characters,Simba,Animated royalty,Animated royalty,retained,Retains a recognizable role or trait without a name or signature catchphrase.
+Fictional Characters,Ariel,Animated sidekick,Curious ocean royalty,changed,Correct the misleading sidekick description.
+Fictional Characters,Winnie the Pooh,Fairy-tale royalty,Gentle woodland friend,changed,Correct the false royalty description.
+Fictional Characters,Mickey Mouse,Cartoon classic,Cartoon classic,retained,Retains a recognizable role or trait without a name or signature catchphrase.
+Fictional Characters,Donald Duck,Cartoon troublemaker,Cartoon troublemaker,retained,Retains a recognizable role or trait without a name or signature catchphrase.
+Fictional Characters,Bugs Bunny,Clever troublemaker,Clever troublemaker,retained,Retains a recognizable role or trait without a name or signature catchphrase.
+Fictional Characters,Scooby-Doo,Mystery sidekick,Mystery sidekick,retained,Retains a recognizable role or trait without a name or signature catchphrase.
+Fictional Characters,Garfield,Food-loving cartoon,Lazy house pet,changed,Less direct than identifying the food obsession and cartoon form.
+Countries,Japan,Islands and cities,Islands and cities,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,Brazil,Soccer and beaches,Soccer and beaches,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,Germany,Castles and cities,Castles and cities,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,Australia,Beaches and wildlife,Beaches and wildlife,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,Canada,Cold and outdoors,Cold and outdoors,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,Mexico,Food and beaches,Food and beaches,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,Italy,Art and food,Art and food,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,France,Fashion and food,Fashion and food,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,Spain,Soccer and sunshine,Soccer and sunshine,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,Portugal,Coastal towns,Coastal towns,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,Greece,Islands and ruins,Islands and ruins,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,Egypt,Desert and ruins,Desert and ruins,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,Morocco,Markets and desert,Markets and desert,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,South Africa,Coasts and wildlife,Coasts and wildlife,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,Kenya,Wildlife and grasslands,Wildlife and grasslands,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,India,Spices and cities,Spices and cities,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,China,Big cities and history,Big cities and history,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,South Korea,Pop music and tech,Pop music and tech,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,Thailand,Beaches and street food,Beaches and street food,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,Vietnam,Busy streets and food,Busy streets and food,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,New Zealand,Mountains and outdoors,Mountains and outdoors,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,Iceland,Volcanoes and cold,Volcanoes and cold,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,Norway,Cold and coastlines,Cold and coastlines,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Countries,Switzerland,Mountains and winter,Mountains and winter,retained,Retains broad geographic or cultural associations with multiple plausible countries.
+Cities,New York,Crowded skyline,Crowded skyline,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Tokyo,Neon and crowds,Neon and crowds,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Paris,Art and romance,Art and romance,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Chicago,Sports and skyline,Sports and skyline,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Las Vegas,Late-night entertainment,Late-night entertainment,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Los Angeles,Movies and traffic,Movies and traffic,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,San Francisco,Hills and waterfront,Hills and waterfront,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Miami,Beaches and nightlife,Beaches and nightlife,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,New Orleans,Food and live music,Food and live music,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Nashville,Live music and bars,Live music and bars,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Austin,Live music and food,Live music and food,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Seattle,Rain and coffee,Rain and coffee,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Boston,History and sports,History and sports,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,"Washington, D.C.",Government and monuments,Government and monuments,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,London,History and transit,History and transit,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Rome,Food and ruins,Food and ruins,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Barcelona,Art and beaches,Art and beaches,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Amsterdam,Bikes and waterways,Bikes and waterways,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Berlin,History and nightlife,History and nightlife,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Dubai,Luxury and skyline,Luxury and skyline,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Singapore,Gardens and skyline,Gardens and skyline,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Seoul,Tech and nightlife,Tech and nightlife,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Sydney,Beaches and harbor,Beaches and harbor,retained,Retains urban associations without a city name or uniquely named landmark.
+Cities,Rio de Janeiro,Beaches and festivals,Beaches and festivals,retained,Retains urban associations without a city name or uniquely named landmark.
+Famous Landmarks,Eiffel Tower,Metal skyline,Metal skyline,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Statue of Liberty,Arrival by sea,Arrival by sea,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Great Wall of China,Built for defense,Fortification,changed,Meaningful defensive context without giving away location or shape.
+Famous Landmarks,Taj Mahal,Memorial to love,Memorial to love,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Colosseum,Ancient crowds,Ancient crowds,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Big Ben,City timekeeper,City landmark,changed,Soften an almost unique clock clue within this category.
+Famous Landmarks,Golden Gate Bridge,Crossing water,Crossing water,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Sydney Opera House,Waterfront performances,Waterfront performances,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Machu Picchu,Mountain ruins,Mountain ruins,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Christ the Redeemer,Overlooking a city,Overlooking a city,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Mount Rushmore,Portraits in stone,Portraits in stone,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Stonehenge,Ancient gathering,Ancient gathering,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Pyramids of Giza,Ancient tombs,Ancient tombs,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Burj Khalifa,Modern height,Modern height,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Grand Canyon,Carved landscape,Carved landscape,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Niagara Falls,Powerful water,Powerful water,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Mount Everest,Extreme altitude,Extreme altitude,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Louvre,Famous art indoors,Famous art indoors,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Leaning Tower of Pisa,Unexpected angle,Unexpected angle,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Las Vegas Strip,Bright nightlife,Bright nightlife,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Disney World,Rides and fantasy,Rides and fantasy,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,White House,Political power,Political power,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Times Square,Bright city crowds,Bright city crowds,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Famous Landmarks,Hollywood Sign,Movie-country hillside,Movie-country hillside,retained,Retains purpose or setting without the place name; landmark category naturally narrows choices.
+Animals,Gorilla,Strong primate,Strong primate,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Penguin,Cold-water colony,Cold-water colony,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Kangaroo,Hopping mammal,Hopping mammal,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Dolphin,Playful swimmer,Playful swimmer,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Crocodile,Patient predator,Patient predator,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Elephant,Large safari animal,Large safari animal,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Giraffe,Long-legged browser,High branches,changed,Replace the niche animal sense of browser with familiar language.
+Animals,Lion,Big cat,Big cat,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Tiger,Solitary big cat,Solitary big cat,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Zebra,Grassland herd,Grassland herd,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Panda,Black and white,Black and white,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Koala,Tree-dwelling mammal,Tree-dwelling mammal,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Sloth,Slow tree climber,Slow tree climber,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Otter,Playful swimmer,Playful swimmer,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Raccoon,Nighttime scavenger,Nighttime scavenger,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Fox,Small wild canine,Small wild canine,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Wolf,Wild canine,Wild canine,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Owl,Nighttime hunter,Nighttime hunter,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Flamingo,Bright wading bird,Bright wading bird,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Peacock,Showy feathers,Showy feathers,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Octopus,Flexible sea creature,Flexible sea creature,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Jellyfish,Drifting sea creature,Drifting sea creature,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Shark,Ocean hunter,Ocean hunter,retained,Retains behavior or habitat in ordinary vocabulary with plausible neighboring animals.
+Animals,Chameleon,Color-changing reptile,Camouflage,changed,Remove a nearly exact definition.
+Cars & Vehicles,Mustang,American performance,American performance,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,Camaro,American performance,American performance,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,Corvette,Low and sporty,Low and sporty,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,Porsche 911,Luxury performance,Luxury performance,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,Civic,Everyday compact,Everyday compact,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,Fire Truck,Emergency response,Emergency response,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,Taxi,Paid city ride,Paid city ride,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,Model 3,Everyday electric,Everyday electric,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,City Bus,Shared city ride,Shared city ride,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,Cybertruck,Electric pickup,Angular electric vehicle,changed,Retain useful context without repeating the vehicle noun.
+Cars & Vehicles,Wrangler,Off-road adventure,Off-road adventure,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,Motorcycle,Open-air ride,Open-air ride,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,F-150,Working pickup,Working pickup,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,Ambulance,Emergency response,Emergency response,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,Limousine,Special occasion,Special occasion,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,Electric Car,Plug-in ride,Charging stops,changed,Remove near-identical ride wording.
+Cars & Vehicles,Sports Car,Performance-focused,Low and quick,changed,Give concrete physical context.
+Cars & Vehicles,Minivan,Family road trip,Family road trip,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,SUV,Room for gear,Room for gear,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,Pickup Truck,Working vehicle,Hauling supplies,changed,Clarify the working-vehicle clue.
+Cars & Vehicles,Convertible,Open-top ride,Open-top ride,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,Tractor,Farm work,Farm work,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,Beetle,Small and rounded,Small and rounded,retained,Retains usage or vehicle style without a model identifier.
+Cars & Vehicles,Scooter,Compact city ride,Compact city ride,retained,Retains usage or vehicle style without a model identifier.
+Car Brands,Ferrari,Italian performance,Italian performance,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Lamborghini,Italian performance,Italian performance,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Tesla,Electric technology,Electric technology,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Porsche,German performance,German performance,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Toyota,Everyday reliability,Everyday reliability,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Honda,Everyday reliability,Everyday reliability,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Ford,American workhorse,American workhorse,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Chevrolet,American workhorse,American workhorse,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Dodge,American performance,American performance,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Jeep,Off-road trips,Off-road trips,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,BMW,German performance,German performance,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Mercedes-Benz,German luxury,German luxury,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Audi,German luxury,German luxury,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Volkswagen,Everyday European,Everyday European,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Volvo,Family safety,Family safety,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Subaru,Outdoor trips,Outdoor trips,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Mazda,Everyday Japanese,Everyday Japanese,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Nissan,Everyday Japanese,Everyday Japanese,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Hyundai,Everyday Korean,Everyday Korean,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Kia,Everyday Korean,Everyday Korean,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Lexus,Comfort-focused luxury,Comfort-focused luxury,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Bentley,British luxury,British luxury,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Rolls-Royce,British luxury,British luxury,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Car Brands,Aston Martin,British performance,British performance,retained,Retains origin or market segment; shared hints intentionally avoid logo giveaways.
+Clothing,Hoodie,Casual,Relaxed outer layer,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Jeans,Casual,Everyday denim,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Blazer,Dressy,Tailored outer layer,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Tuxedo,Dressy,Formal evening wear,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Sundress,Warm weather,Light summer outfit,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Cardigan,Layering,Buttoned knit layer,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Trench Coat,Layering,Rainy-day outerwear,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Puffer Jacket,Cold weather,Insulated outerwear,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Leather Jacket,Layering,Edgy outer layer,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Tank Top,Warm weather,Sleeveless summer wear,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Polo Shirt,Casual,Casual collared top,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Sweatpants,Comfortable,Soft lounge bottoms,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Leggings,Comfortable,Stretchy workout bottoms,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Cargo Pants,Casual,Practical pockets,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Overalls,Casual,Workwear straps,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Jumpsuit,Dressy,Single-piece outfit,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Turtleneck,Layering,High-neck knitwear,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Beanie,Cold weather,Knitted winter headwear,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Baseball Cap,Outdoors,Casual sun protection,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Scarf,Cold weather,Wrapped warmth,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Gloves,Cold weather,Cold-weather handwear,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Socks,Comfortable,Footwear layer,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Swimsuit,Warm weather,Poolside outfit,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Clothing,Pajamas,Comfortable,Bedtime comfort,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Fashion Brands,Nike,Gym clothes and shoes,Gym clothes and shoes,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Adidas,Gym clothes and shoes,Gym clothes and shoes,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Puma,Gym clothes and shoes,Gym clothes and shoes,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,New Balance,Running shoes,Running shoes,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Converse,Casual canvas,Casual canvas,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Vans,Skater style,Skater style,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Crocs,Easygoing footwear,Easygoing footwear,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,UGG,Cozy footwear,Cozy footwear,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Birkenstock,Casual sandals,Casual sandals,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Lululemon,Studio workouts,Studio workouts,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,H&M,Mall basics,Mall basics,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Gymshark,Gym outfits,Gym outfits,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Patagonia,Outdoor layers,Outdoor layers,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,The North Face,Outdoor layers,Outdoor layers,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Zara,Mall outfits,Mall outfits,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Carhartt,Workwear style,Workwear style,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Levi's,Everyday denim,Everyday denim,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Ralph Lauren,Preppy outfits,Preppy outfits,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Tommy Hilfiger,Preppy outfits,Preppy outfits,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Calvin Klein,Minimal basics,Minimal basics,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Gucci,Designer accessories,Designer accessories,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Prada,Designer fashion,Designer fashion,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Louis Vuitton,Designer travel,Designer travel,retained,Retains product segment or style; several brands still fit.
+Fashion Brands,Balenciaga,Bold designer fashion,Bold designer fashion,retained,Retains product segment or style; several brands still fit.
+Technology,ChatGPT,Digital assistant,Digital assistant,retained,Retains use context without a product identifier or abbreviation.
+Technology,AirPods,Wireless listening,Wireless listening,retained,Retains use context without a product identifier or abbreviation.
+Technology,iPhone,Pocket touchscreen,Pocket touchscreen,retained,Retains use context without a product identifier or abbreviation.
+Technology,PlayStation,Living-room gaming,Living-room gaming,retained,Retains use context without a product identifier or abbreviation.
+Technology,Bluetooth,Wireless connection,Wireless connection,retained,Retains use context without a product identifier or abbreviation.
+Technology,Laptop,Portable work,Portable work,retained,Retains use context without a product identifier or abbreviation.
+Technology,Smartwatch,Wrist notifications,Wrist notifications,retained,Retains use context without a product identifier or abbreviation.
+Technology,VR Headset,Immersive gaming,Immersive gaming,retained,Retains use context without a product identifier or abbreviation.
+Technology,Drone,Remote flight,Remote flight,retained,Retains use context without a product identifier or abbreviation.
+Technology,3D Printer,Making objects,Layered fabrication,changed,Narrow making objects without repeating the device name.
+Technology,Projector,Shared viewing,Shared viewing,retained,Retains use context without a product identifier or abbreviation.
+Technology,Router,Home connection,Home connection,retained,Retains use context without a product identifier or abbreviation.
+Technology,USB Drive,Portable files,Portable files,retained,Retains use context without a product identifier or abbreviation.
+Technology,Power Bank,Portable charging,Portable charging,retained,Retains use context without a product identifier or abbreviation.
+Technology,Graphics Card,Gaming performance,Gaming performance,retained,Retains use context without a product identifier or abbreviation.
+Technology,Mechanical Keyboard,Desk typing,Tactile desk setup,changed,Desk typing named the action too directly; emphasize feel.
+Technology,Webcam,Video calls,Video calls,retained,Retains use context without a product identifier or abbreviation.
+Technology,Microphone,Recording sound,Recording sound,retained,Retains use context without a product identifier or abbreviation.
+Technology,Smart Speaker,Voice commands,Voice commands,retained,Retains use context without a product identifier or abbreviation.
+Technology,Kindle,Digital books,Digital books,retained,Retains use context without a product identifier or abbreviation.
+Technology,Nintendo Switch,Portable gaming,Portable gaming,retained,Retains use context without a product identifier or abbreviation.
+Technology,Xbox,Living-room gaming,Living-room gaming,retained,Retains use context without a product identifier or abbreviation.
+Technology,Robot Vacuum,Hands-free cleaning,Hands-free cleaning,retained,Retains use context without a product identifier or abbreviation.
+Technology,GPS,Finding your way,Finding your way,retained,Retains use context without a product identifier or abbreviation.
+Apps & Social Media,Instagram,Photos and stories,Photos and stories,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,TikTok,Short videos,Short videos,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,Snapchat,Private snaps,Private snaps,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,YouTube,Video channels,Video channels,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,Reddit,Topic communities,Topic communities,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,Discord,Group servers,Group servers,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,Twitch,Live creators,Live creators,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,Pinterest,Save inspiration,Save inspiration,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,LinkedIn,Career connections,Career connections,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,Facebook,Friends and groups,Friends and groups,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,FaceTime,Video calls,Video calls,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,Threads,Public updates,Public updates,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,DoorDash,Food delivery,Food delivery,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,WhatsApp,Group messages,Group messages,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,Uber,Book a ride,Book a ride,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,X (Twitter),Public updates,Public updates,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,Netflix,Movie night,Movie night,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,Spotify,Music playlists,Music playlists,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,Zoom,Group video calls,Group video calls,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,Duolingo,Daily language practice,Daily language practice,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,Tinder,Meeting people,Meeting people,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,Amazon,Online shopping,Online shopping,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,Google Docs,Shared documents,Shared documents,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Apps & Social Media,Google Maps,Plan your route,Plan your route,retained,Retains a use case; multiple apps can fit and branding is omitted.
+Internet Culture,Influencer,Online following,Online following,retained,Retains a recognizable online context without repeating the answer.
+Internet Culture,Livestream,Live audience,Real-time audience,changed,Avoid repeating the distinctive word root.
+Internet Culture,Clickbait,Tempting headline,Tempting headline,retained,Retains a recognizable online context without repeating the answer.
+Internet Culture,Viral Video,Widely shared clip,Widely shared clip,retained,Retains a recognizable online context without repeating the answer.
+Internet Culture,Comment Section,Public replies,Public replies,retained,Retains a recognizable online context without repeating the answer.
+Internet Culture,Hashtag,Searchable tag,Searchable tag,retained,Retains a recognizable online context without repeating the answer.
+Internet Culture,Algorithm,Personalized feed,Personalized feed,retained,Retains a recognizable online context without repeating the answer.
+Internet Culture,Fandom,Dedicated fans,Shared enthusiasm,changed,Avoid directly echoing the root word.
+Internet Culture,Fan Fiction,Fan-made stories,Unofficial storytelling,changed,Remove the repeated title word.
+Internet Culture,Cosplay,Dressing as characters,Dressing as characters,retained,Retains a recognizable online context without repeating the answer.
+Internet Culture,Podcast,Long-form listening,Long-form listening,retained,Retains a recognizable online context without repeating the answer.
+Internet Culture,Unboxing,Opening a purchase,Opening a purchase,retained,Retains a recognizable online context without repeating the answer.
+Internet Culture,Autocorrect,Typing surprise,Typing surprise,retained,Retains a recognizable online context without repeating the answer.
+Internet Culture,Selfie,Personal photo,Solo camera moment,changed,Clarify the personal-photo context.
+Internet Culture,Speedrun,Fast game completion,Fast game completion,retained,Retains a recognizable online context without repeating the answer.
+Internet Culture,Reaction Video,Watching reactions,Watching someone respond,changed,Remove exact word repetition.
+Internet Culture,Catfishing,False online identity,False online identity,retained,Retains a recognizable online context without repeating the answer.
+Internet Culture,Doomscrolling,Endless bad news,Endless bad news,retained,Retains a recognizable online context without repeating the answer.
+Internet Culture,Digital Detox,Taking time offline,Taking time offline,retained,Retains a recognizable online context without repeating the answer.
+Internet Culture,Cancel Culture,Public backlash,Public backlash,retained,Retains a recognizable online context without repeating the answer.
+Internet Culture,Screenshot,Capture the screen,Saved display,changed,Avoid a near-word-for-word expansion of the answer.
+Internet Culture,Group Chat,Messages with friends,Messages with friends,retained,Retains a recognizable online context without repeating the answer.
+Internet Culture,Troll,Starting arguments,Starting arguments,retained,Retains a recognizable online context without repeating the answer.
+Internet Culture,Brainrot,Online nonsense,Online nonsense,retained,Retains a recognizable online context without repeating the answer.
+Memes,Distracted Boyfriend Meme,Temptation and jealousy,Temptation and jealousy,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Doge,Internet dog,Internet dog,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Cat Memes,Pet reactions,Pet reactions,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Rizz,Social confidence,Social confidence,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Main Character Energy,Acting like the star,Acting like the star,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Trollface,Mischievous grin,Mischievous grin,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Woman Yelling at a Cat Meme,Angry reaction,Angry reaction,retained,Retains the social context without naming the character or repeating the expression.
+Memes,This Is Fine,Ignoring the chaos,Ignoring the chaos,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Girl Math,Spending logic,Spending logic,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Delulu,Unrealistic confidence,Unrealistic confidence,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Sus,Doubting someone,Doubting someone,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Surprised Pikachu,Unexpected consequences,Unexpected consequences,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Skibidi Toilet,Absurd video series,Absurd video series,retained,Retains the social context without naming the character or repeating the expression.
+Memes,NPC,Background behavior,Background behavior,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Ick,Dating turnoff,Dating turnoff,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Gigachad,Exaggerated confidence,Exaggerated confidence,retained,Retains the social context without naming the character or repeating the expression.
+Memes,SpongeBob Memes,Cartoon reactions,Cartoon reactions,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Let Him Cook,Give someone a chance,Trust the process,changed,Provide an indirect social context.
+Memes,OK Boomer,Generational comeback,Generational comeback,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Rickroll,Unexpected music,Unexpected music,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Baby Yoda,Cute reactions,Cute reactions,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Emotional Damage,Dramatic reaction,Dramatic reaction,retained,Retains the social context without naming the character or repeating the expression.
+Memes,Side Eye,Silent judgment,Unspoken doubt,changed,Soften the direct synonym.
+Memes,Touch Grass,Too much internet,Too much internet,retained,Retains the social context without naming the character or repeating the expression.
+College Life,Fraternity,Campus social group,Campus social group,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Sorority,Campus social group,Campus social group,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Dorm Room,Small shared space,Small shared space,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Lecture,Taking notes,Taking notes,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Final Exam,High-pressure studying,High-pressure studying,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Graduation,Big milestone,Big milestone,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Roommate,Sharing your space,Sharing your space,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Dining Hall,Campus meals,Campus meals,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Meal Plan,Paying for campus food,Paying for campus food,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Office Hours,Ask the instructor,Ask the instructor,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Study Abroad,Learning overseas,Learning overseas,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Freshman Orientation,Meeting new classmates,Meeting new classmates,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Campus Tour,Exploring campus,Exploring campus,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Student Loan,Borrowing for school,Borrowing for school,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Textbook,Required reading,Required reading,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,All-Nighter,Studying past bedtime,Studying past bedtime,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Spring Break,Semester getaway,Semester getaway,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Homecoming,School-spirit weekend,School-spirit weekend,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Tailgate,Game-day gathering,Game-day gathering,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Group Project,Shared assignment,Shared assignment,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Resident Assistant,Helping dorm residents,Helping dorm residents,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Course Registration,Planning your classes,Choosing a semester,changed,Remove nearly definitional class-planning phrasing.
+College Life,Waitlist,Hoping for a spot,Hoping for a spot,retained,Retains the campus situation without a direct name or abbreviation.
+College Life,Internship,Trying a career,Early work experience,changed,Add concrete career context.
+School,Homework,Assignments,After-class practice,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Recess,Time off,Playground break,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Report Card,Grades,Term progress,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Detention,Rules,After-school consequence,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Prom,Celebration,Formal school dance,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Homeroom,Daily routine,Morning attendance,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Science Fair,Projects,Displaying experiments,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Field Trip,Time away,Learning away from campus,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Spelling Bee,Competition,Word competition,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Yearbook,School memories,End-of-year keepsake,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,School Bus,Morning routine,Shared morning ride,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Locker,Storage,Hallway belongings,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Cafeteria,Shared space,Lunch crowd,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Chalkboard,Classroom,Dusty classroom writing,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Whiteboard,Classroom,Erasable classroom writing,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Principal,Staff,School leadership,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Substitute Teacher,Staff,Temporary classroom leader,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Hall Pass,Rules,Leaving the classroom,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Pop Quiz,Grades,Unexpected assessment,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Extra Credit,Grades,Optional grade boost,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Permission Slip,Paperwork,Parent approval,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Book Report,Assignments,Reading assignment,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Valedictorian,Celebration,Top-student speech,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+School,Parent-Teacher Conference,Discussion,Discussing student progress,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,First Date,Getting to know someone,Early romantic nerves,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Situationship,Uncertainty,Undefined commitment,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Breakup,Big change,Ending a connection,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Crush,Feelings,Secret attraction,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Wedding,Celebration,Public commitment,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Proposal,Big question,Future together,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Engagement Ring,Jewelry,Symbol of commitment,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Anniversary,Celebration,Remembering a milestone,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Blind Date,Getting to know someone,Meeting a stranger,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Double Date,Going out,Couples together,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Long Distance,Communication,Time-zone communication,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Love Letter,Communication,Written affection,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Dating App,Meeting people,Online introductions,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Ghosting,Communication,Unanswered messages,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Friend Zone,Feelings,Unequal romantic interest,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Red Flag,First impressions,Warning behavior,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Green Flag,First impressions,Reassuring behavior,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Third Wheel,Social situation,Extra companion,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Meet the Parents,First impressions,Family introductions,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Honeymoon,Travel,Newlywed getaway,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Soulmate,Feelings,Deep compatibility,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Love Triangle,Complicated feelings,Competing romantic interests,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Jealousy,Feelings,Fear of replacement,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Relationships,Reconciliation,Making up,Repairing a connection,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Doctor,Healthcare,Diagnosing patients,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Nurse,Healthcare,Bedside care,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Dentist,Healthcare,Oral healthcare,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Teacher,Working with people,Guiding a classroom,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Lawyer,Office work,Legal arguments,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Accountant,Office work,Financial records,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Architect,Planning,Designing buildings,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Engineer,Planning,Solving technical problems,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Software Developer,Office work,Building digital tools,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Chef,Customer service,Running a kitchen,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Barista,Customer service,Cafe counter,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Bartender,Customer service,Evening drink service,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Firefighter,Emergency,Rescue crew,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Paramedic,Emergency,Urgent medical care,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Police Officer,Emergency,Public patrol,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Pilot,Travel,Cockpit crew,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Flight Attendant,Travel,Passenger safety,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Electrician,Hands-on work,Power-system repairs,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Plumber,Hands-on work,Water-system repairs,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Mechanic,Hands-on work,Vehicle repairs,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Journalist,Media,Reporting events,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Photographer,Media,Capturing images,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Real Estate Agent,Working with people,Property viewings,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Jobs & Professions,Veterinarian,Healthcare,Caring for animals,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Household Items,Refrigerator,Kitchen storage,Kitchen storage,retained,Retains use or location without the object name.
+Household Items,Microwave,Quick reheating,Quick reheating,retained,Retains use or location without the object name.
+Household Items,Toaster,Breakfast appliance,Breakfast appliance,retained,Retains use or location without the object name.
+Household Items,Blender,Kitchen mixing,Kitchen mixing,retained,Retains use or location without the object name.
+Household Items,Dishwasher,Cleaning after dinner,Cleaning after dinner,retained,Retains use or location without the object name.
+Household Items,Washing Machine,Cleaning your clothes,Cleaning your clothes,retained,Retains use or location without the object name.
+Household Items,Clothes Dryer,After the wash,After the wash,retained,Retains use or location without the object name.
+Household Items,Iron,Smoothing clothes,Smoothing clothes,retained,Retains use or location without the object name.
+Household Items,Vacuum Cleaner,Cleaning floors,Powered floor care,changed,Distinguish from blanket floor-cleaning hints.
+Household Items,Broom,Cleaning floors,Dry floor care,changed,Distinguish from blanket floor-cleaning hints.
+Household Items,Mop,Cleaning floors,Wet floor care,changed,Distinguish from blanket floor-cleaning hints.
+Household Items,Sponge,Soaking up spills,Soaking up spills,retained,Retains use or location without the object name.
+Household Items,Dish Soap,Cleaning after dinner,Cleaning after dinner,retained,Retains use or location without the object name.
+Household Items,Laundry Detergent,Cleaning your clothes,Cleaning your clothes,retained,Retains use or location without the object name.
+Household Items,Trash Can,Household disposal,Household disposal,retained,Retains use or location without the object name.
+Household Items,Shower Curtain,Bathroom privacy,Bathroom privacy,retained,Retains use or location without the object name.
+Household Items,Bath Mat,Bathroom floor,Bathroom floor,retained,Retains use or location without the object name.
+Household Items,Towel,Drying off,Drying off,retained,Retains use or location without the object name.
+Household Items,Pillow,Bedroom comfort,Soft support,changed,Differentiate bedroom-comfort clues.
+Household Items,Blanket,Bedroom comfort,Cozy covering,changed,Differentiate bedroom-comfort clues.
+Household Items,Couch,Living-room comfort,Living-room comfort,retained,Retains use or location without the object name.
+Household Items,Coffee Table,Living-room furniture,Beside the couch,changed,Use a recognizable location without repeating the furniture noun.
+Household Items,Bookshelf,Organizing a room,Displaying a collection,changed,More specific than organizing a room.
+Household Items,Desk Lamp,Focused lighting,Focused lighting,retained,Retains use or location without the object name.
+Stores,Walmart,Clothes and groceries,Clothes and groceries,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Target,Clothes and groceries,Clothes and groceries,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Costco,Group grocery run,Bulk shopping,changed,Group grocery run was vague and potentially misleading.
+Stores,IKEA,Furnishing a room,Furnishing a room,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Best Buy,Shopping for devices,Shopping for devices,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Trader Joe's,Specialty groceries,Specialty groceries,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Whole Foods,Fresh groceries,Fresh groceries,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Aldi,Budget groceries,Budget groceries,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Kroger,Weekly groceries,Weekly groceries,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Publix,Weekly groceries,Weekly groceries,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,7-Eleven,Late-night essentials,Late-night essentials,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Walgreens,Health and essentials,Health and essentials,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,CVS,Health and essentials,Health and essentials,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Dollar Tree,Budget essentials,Budget essentials,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Dollar General,Budget essentials,Budget essentials,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Home Depot,Home repairs,Home repairs,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Lowe's,Home repairs,Home repairs,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Ace Hardware,Home repairs,Home repairs,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Sephora,Beauty shopping,Beauty shopping,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Ulta Beauty,Beauty shopping,Beauty shopping,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Macy's,Department-store outfits,Department-store outfits,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Nordstrom,Department-store outfits,Department-store outfits,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,TJ Maxx,Discount outfits,Discount outfits,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Stores,Five Below,Budget gifts,Budget gifts,retained,Retains merchandise or shopping context; deliberately shared across comparable chains.
+Vacation & Travel,Beach,Coastal relaxation,Coastal relaxation,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Cruise,Vacation on water,Vacation on water,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Resort,Stay and relax,Stay and relax,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Airport,Starting a journey,Starting a journey,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Road Trip,Traveling together,Traveling together,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Passport,Proof for travel,Proof for travel,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Boarding Pass,Ready to depart,Ready to depart,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Suitcase,Packing clothes,Wheeled luggage,changed,Provide concrete context; more than one travel bag fits.
+Vacation & Travel,Carry-On,Packing light,Packing light,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Hotel,Overnight stay,Overnight stay,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Hostel,Budget stay,Budget stay,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Airbnb,Short-term stay,Short-term stay,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Camping,Sleeping outdoors,Sleeping outdoors,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Backpacking,Traveling light,Traveling light,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Train Station,Overland departure,Overland departure,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Rental Car,Temporary transport,Temporary transport,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Souvenir,Keepsake shopping,Travel memory,changed,Avoid a direct keepsake synonym.
+Vacation & Travel,Tour Guide,Local knowledge,Local knowledge,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Beach Umbrella,Coastal shade,Portable shade,changed,Remove coastal location that nearly names the answer.
+Vacation & Travel,Jet Lag,Travel exhaustion,Travel exhaustion,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Layover,Between destinations,Between destinations,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Tourist,Exploring somewhere new,Exploring somewhere new,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Theme Park,Rides and crowds,Rides and crowds,retained,Retains travel purpose or situation without a direct name.
+Vacation & Travel,Itinerary,Planning your days,Planning your days,retained,Retains travel purpose or situation without a direct name.
+Holidays,Christmas,Family gathering,Winter gift-giving,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Thanksgiving,Family gathering,Autumn gathering,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Halloween,Dressing up,Costumed evening,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Easter,Springtime,Spring celebration,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Valentine's Day,Gifts,Romantic gestures,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,New Year's Eve,Celebration,Midnight celebration,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,New Year's Day,Fresh start,Beginning again,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Independence Day,Summer,Summer patriotism,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Memorial Day,Remembrance,Honoring the fallen,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Labor Day,Long weekend,Workers and a long weekend,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Veterans Day,Remembrance,Honoring military service,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Martin Luther King Jr. Day,Community,Civil-rights remembrance,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Presidents' Day,Long weekend,American leadership,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Juneteenth,Freedom,Emancipation celebration,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,St. Patrick's Day,Celebration,Irish heritage,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,April Fools' Day,Jokes,Playful deception,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Mother's Day,Family,Celebrating a parent,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Father's Day,Family,Celebrating a parent,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Hanukkah,Family gathering,Winter candlelight,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Diwali,Family gathering,Autumn illumination,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Lunar New Year,Family gathering,New calendar traditions,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Eid al-Fitr,Family gathering,Celebration after fasting,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Día de los Muertos,Remembering loved ones,Honoring ancestors,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Holidays,Holi,Springtime,Colorful spring festival,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Pop,Radio,Catchy radio hooks,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Hip-Hop,Beat,Rhythmic verses,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Rock,Live band,Amplified guitar band,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Country,Stories,Rural storytelling,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Jazz,Live band,Instrumental improvisation,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Blues,Emotion,Melancholy guitar phrases,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Classical,Concert hall,Orchestral composition,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Opera,Live performance,Dramatic trained vocals,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Reggae,Relaxed beat,Offbeat island rhythm,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Latin Pop,Radio,Spanish-language radio hooks,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Punk,Live band,Rebellious fast guitars,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Metal,Live band,Heavy distorted guitars,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Disco,Going out,Retro dance-floor grooves,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Funk,Danceable,Syncopated bass grooves,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Soul,Emotion,Expressive lead vocals,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,R&B,Emotion,Smooth vocal grooves,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Gospel,Singing,Spiritual group singing,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Folk,Live band,Acoustic storytelling,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Indie,Live band,Alternative-band scene,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,EDM,Going out,Electronic festival drops,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,House,Going out,Steady club pulse,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Techno,Going out,Repetitive electronic rhythms,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,Dubstep,Going out,Heavy electronic bass,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Music Genres,K-Pop,Pop groups,Choreographed idol groups,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Albert Einstein,Science,Modern physics,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Isaac Newton,Science,Motion and gravity,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Marie Curie,Science,Radioactivity research,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Charles Darwin,Science,Evolution research,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Benjamin Franklin,Founding era,Founding-era inventor,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Nikola Tesla,Science,Electrical experiments,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Thomas Edison,Inventions,Commercial inventions,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Leonardo da Vinci,Art,Renaissance creativity,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Vincent van Gogh,Art,Expressive brushwork,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Pablo Picasso,Art,Geometric painting,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,William Shakespeare,Writing,English theater,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Anne Frank,Writing,Wartime diary,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Cleopatra,Leadership,Ancient Egyptian ruler,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Julius Caesar,Leadership,Ancient Roman leader,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Queen Elizabeth II,Royalty,Long British reign,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Napoleon Bonaparte,Leadership,French military leader,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,George Washington,Leadership,Early American presidency,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Abraham Lincoln,Leadership,Civil War leadership,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Harriet Tubman,Courage,Helping people escape slavery,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Rosa Parks,Courage,Civil-rights resistance,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Martin Luther King Jr.,Civil rights,Nonviolent civil-rights speeches,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Nelson Mandela,Civil rights,South African freedom struggle,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Mahatma Gandhi,Civil rights,Indian independence movement,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Historical Figures,Amelia Earhart,Exploration,Pioneering flight,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Forest,Trees,Wooded habitat,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Desert,Dry climate,Sparse rainfall,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Rainforest,Trees,Humid canopy,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Iceberg,Frozen,Floating frozen mass,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Grassland,Open land,Open grazing habitat,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Coral Reef,Underwater,Colorful marine habitat,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Waterfall,Moving water,Falling freshwater,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Volcano,Mountains,Erupting landscape,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Mountain,High ground,High-elevation terrain,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Valley,Landscape,Low ground between slopes,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Canyon,Landscape,Deep eroded terrain,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Cave,Rocky,Enclosed rocky space,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Glacier,Frozen,Frozen landscape,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,River,Moving water,Flowing freshwater,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Lake,Still water,Inland freshwater,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Ocean,Open water,Vast saltwater,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Island,Coastline,Land surrounded by water,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Peninsula,Coastline,Land reaching into water,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Meadow,Open land,Open flowering habitat,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Swamp,Wet ground,Waterlogged habitat,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Sand Dune,Dry climate,Wind-shaped terrain,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Hot Spring,Warm water,Naturally heated water,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Aurora,Northern,Polar night sky,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Nature,Pond,Still water,Small still-water habitat,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Rain,Wet,Wet forecast,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Snow,Winter,Wintry flakes,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Hail,Stormy,Solid storm precipitation,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Ice Storm,Winter,Frozen surface buildup,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Fog,Damp air,Poor visibility,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Mist,Damp air,Fine airborne moisture,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Drizzle,Wet,Light precipitation,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Thunderstorm,Stormy,Rumbling storm,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Lightning,Stormy,Electrical sky,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Tornado,Dangerous,Rotating storm,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Hurricane,Dangerous,Tropical coastal storm,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Blizzard,Winter,Blowing winter precipitation,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Downpour,Wet,Heavy precipitation,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Heat Wave,Uncomfortable,Prolonged hot spell,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Cold Front,Temperature,Shifting temperatures,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Drought,Dry,Prolonged lack of rain,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Humidity,Uncomfortable,Moisture in the air,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Frost,Winter,Frozen morning coating,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Dew,Morning,Moist morning coating,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Rainbow,Colorful,Colors after rain,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Wind,Outdoors,Moving air,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Dust Storm,Dangerous,Windblown grit,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Sunshine,Outdoors,Clear bright day,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Weather,Overcast,Cloudy,Gray cloud cover,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Roulette,Spinning,Wheel-based wager,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Beginner's Luck,First try,Unexpected early success,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Slot Machine,Flashing lights,Electronic reels,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Casino,Night out,Wagering venue,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Bingo,Group activity,Called numbers,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Sports Betting,Prediction,Wagering on a match,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Horse Racing,Competition,Trackside wagering,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Lottery,Big prize,Chance of a huge payout,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Prize Wheel,Spinning,Spinning for a reward,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Jackpot,Big win,Rare large payout,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Poker Chips,Table games,Table-game counters,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Dealer,Table games,Managing a table game,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Dice,Table games,Random numbered faces,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,High Roller,Risky,Large wagers,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Bet,Taking chances,Risking a stake,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Prize Money,Big prize,Cash reward,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Lucky Number,Superstition,Personal superstition,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Winning Streak,Good luck,Repeated successes,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Card Table,Table games,Felt-covered surface,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,All In,Taking chances,Risking everything,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Scratch-Off Ticket,Big prize,Reveal a hidden prize,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Raffle,Fundraiser,Fundraising draw,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Coin Toss,Quick decision,Two-sided chance,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Casino & Gambling,Casino Hotel,Vacation,Overnight gambling getaway,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Beer Pong,Party game,Cup-target game,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Karaoke,Performing,Singing along,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Nightclub,Music,Late-night dancing,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,House Party,Friends,Gathering at home,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Dance Floor,Crowded,Space for dancing,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,DJ,Music,Mixing tracks,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Disco Ball,Decoration,Reflective decoration,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Glow Stick,Decoration,Handheld colored light,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Confetti,Decoration,Scattered celebration,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Balloon,Decoration,Floating decoration,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Streamers,Decoration,Hanging decoration,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Party Hat,Decoration,Wearable celebration,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Piñata,Party game,Candy-filled game,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Photo Booth,Memories,Posing together,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Guest List,Planning,Planned invitations,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Bouncer,Entrance,Checking admission,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,VIP Section,Nightlife,Exclusive seating,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Bottle Service,Nightlife,Table-side drinks,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Pregame,Timing,Gathering beforehand,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Afterparty,Timing,Gathering afterward,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Costume Party,Dressing up,Disguises together,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Pool Party,Summer,Swimming and friends,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Potluck,Food,Shared dishes,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Parties,Surprise Party,Planning,Secret celebration,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Money & Finance,Credit Card,Borrow now,Borrow now,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Bitcoin,Online currency,Decentralized currency,changed,Narrow the overly broad online-currency description.
+Money & Finance,Stock Market,Buying investments,Buying investments,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Mortgage,Paying for a home,Paying for a home,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Rent,Monthly housing,Monthly housing,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Savings Account,Money set aside,Money set aside,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Allowance,Spending money,Spending money,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Budget,Plan your spending,Plan your spending,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Paycheck,Regular income,Regular income,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Tax Return,Annual paperwork,Annual paperwork,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Interest,Cost of borrowing,Cost of borrowing,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Inflation,Rising costs,Rising costs,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Recession,Economy slowing,Economy slowing,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Tip,Extra for service,Extra for service,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Debit Card,Pay from your balance,Pay from your balance,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Gift Card,Prepaid spending,Prepaid spending,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Retirement,Future planning,Future planning,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Scholarship,College funding,Awarded education funding,changed,Distinguish from borrowing without giving a definition.
+Money & Finance,Bank,Everyday finances,Everyday finances,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Venmo,Paying friends,Paying friends,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Cash,Physical payment,Physical payment,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,ATM,Access your money,Access your money,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Credit Score,Borrowing history,Borrowing history,retained,Retains an everyday money use case without jargon or the answer.
+Money & Finance,Tuition,College costs,College costs,retained,Retains an everyday money use case without jargon or the answer.
+Hobbies,Gardening,Outdoors,Tending plants,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Knitting,Crafting,Yarn craft,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Crochet,Crafting,Looped yarn craft,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Pottery,Crafting,Shaping clay,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Painting,Art,Brushwork,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Drawing,Art,Sketching shapes,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Photography,Art,Framing a scene,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Birdwatching,Outdoors,Observing wildlife,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Fishing,Outdoors,Patient waterside activity,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Hiking,Outdoors,Walking trails,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Rock Climbing,Exercise,Grip and footholds,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Cycling,Exercise,Pedaling outdoors,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Running,Exercise,Endurance training,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Yoga,Exercise,Controlled stretching,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Meditation,Relaxation,Quiet attention,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Baking,Kitchen,Oven creations,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Cooking,Kitchen,Preparing a meal,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Woodworking,Crafting,Shaping timber,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Origami,Crafting,Paper craft,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Scrapbooking,Crafting,Preserving keepsakes,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Journaling,Writing,Personal reflections,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Thrifting,Shopping,Secondhand treasure hunt,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Stargazing,Outdoors,Observing the night sky,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Hobbies,Collecting Vinyl,Music,Physical music collection,changed,"Replace a blanket category/feeling clue with a familiar action, setting, or trait; retain ambiguity among comparable entries."
+Toys,LEGO,Build and rebuild,Build and rebuild,retained,Retains play style or material without a brand catchphrase.
+Toys,Barbie Doll,Dress-up play,Dress-up play,retained,Retains play style or material without a brand catchphrase.
+Toys,Hot Wheels,Tiny vehicles,Tiny vehicles,retained,Retains play style or material without a brand catchphrase.
+Toys,Nerf Blaster,Active play,Active play,retained,Retains play style or material without a brand catchphrase.
+Toys,Play-Doh,Shape and squish,Shape and squish,retained,Retains play style or material without a brand catchphrase.
+Toys,Rubik's Cube,Color challenge,Color challenge,retained,Retains play style or material without a brand catchphrase.
+Toys,Yo-Yo,Trick practice,Trick practice,retained,Retains play style or material without a brand catchphrase.
+Toys,Slinky,Movement toy,Stretchy play,changed,Movement toy was too vague.
+Toys,Hula Hoop,Active play,Full-body coordination,changed,Active play was too vague.
+Toys,Frisbee,Outdoor throwing,Outdoor throwing,retained,Retains play style or material without a brand catchphrase.
+Toys,Bubbles,Outdoor play,Floating play,changed,Provide an observable feature.
+Toys,Toy Dinosaur,Prehistoric pretend,Prehistoric pretend,retained,Retains play style or material without a brand catchphrase.
+Toys,RC Car,Remote control,Remote control,retained,Retains play style or material without a brand catchphrase.
+Toys,Toy Train,Miniature transport,Miniature transport,retained,Retains play style or material without a brand catchphrase.
+Toys,Puzzle,Put pieces together,Put pieces together,retained,Retains play style or material without a brand catchphrase.
+Toys,Transformers,Changing forms,Changing forms,retained,Retains play style or material without a brand catchphrase.
+Toys,Action Figure,Pretend adventures,Pretend adventures,retained,Retains play style or material without a brand catchphrase.
+Toys,Dollhouse,Miniature rooms,Miniature rooms,retained,Retains play style or material without a brand catchphrase.
+Toys,Water Gun,Outdoor play,Summer splashing,changed,Outdoor play did not distinguish the activity.
+Toys,My Little Pony,Fantasy animals,Fantasy animals,retained,Retains play style or material without a brand catchphrase.
+Toys,Squishmallow,Soft collectible,Soft collectible,retained,Retains play style or material without a brand catchphrase.
+Toys,Teddy Bear,Comfort toy,Comfort toy,retained,Retains play style or material without a brand catchphrase.
+Toys,Magic 8 Ball,Playful predictions,Uncertain answers,changed,Soften the fortune-telling definition.
+Toys,Fidget Spinner,Restless hands,Restless hands,retained,Retains play style or material without a brand catchphrase.
+Superheroes,Superman,Powerful outsider,Powerful outsider,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Batman,Prepared detective,Prepared detective,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Wonder Woman,Legendary warrior,Legendary warrior,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Spider-Man,Acrobatic hero,Acrobatic hero,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Iron Man,Powered equipment,Powered equipment,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Captain America,Team leader,Team leader,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Thor,Mythology,Mythic warrior,changed,Narrow a very broad field of mythology.
+Superheroes,Hulk,Overwhelming strength,Overwhelming strength,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Black Widow,Spy training,Spy training,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Hawkeye,Ranged accuracy,Ranged accuracy,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Black Panther,Royal responsibility,Royal responsibility,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Doctor Strange,Learned magic,Learned magic,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Scarlet Witch,Reality-changing powers,Reality-changing powers,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Vision (Marvel),Artificial life,Artificial life,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Ant-Man,Changing size,Changing size,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Robin,Young sidekick,Young sidekick,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Captain Marvel,Space-level power,Space-level power,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Aquaman,Royal responsibility,Ocean leadership,changed,Differentiate from another royal hero without naming an animal.
+Superheroes,The Flash,Speedy hero,Speedy hero,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Green Lantern,Imagination and equipment,Willpower,changed,Simplify a cumbersome and overly descriptive clue.
+Superheroes,Batgirl,Young sidekick,Masked crime-fighter,changed,Avoid incorrectly presenting every incarnation as a young sidekick.
+Superheroes,Wolverine,Fast healing,Fast healing,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Deadpool,Comic attitude,Comic attitude,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Superheroes,Storm (X-Men),Weather powers,Weather powers,retained,"Retains a power or role without names, costumes, or franchise identifiers."
+Everyday Objects,Wallet,Pocket valuables,Pocket valuables,retained,Retains use context without the object name.
+Everyday Objects,Toothbrush,Bathroom routine,Daily hygiene,changed,Broader than a direct action but grounded in routine.
+Everyday Objects,Backpack,Carrying your things,Carrying your things,retained,Retains use context without the object name.
+Everyday Objects,Charger,Powering devices,Powering devices,retained,Retains use context without the object name.
+Everyday Objects,Keys,Opening doors,Opening doors,retained,Retains use context without the object name.
+Everyday Objects,Umbrella,Weather protection,Weather protection,retained,Retains use context without the object name.
+Everyday Objects,Sunglasses,Eye protection,Eye protection,retained,Retains use context without the object name.
+Everyday Objects,Water Bottle,Staying hydrated,Staying hydrated,retained,Retains use context without the object name.
+Everyday Objects,Notebook,Taking notes,Taking notes,retained,Retains use context without the object name.
+Everyday Objects,Pen,Writing tool,Permanent marks,changed,Differentiate from generic writing-tool hints.
+Everyday Objects,Pencil,Writing tool,Erasable marks,changed,Differentiate from generic writing-tool hints.
+Everyday Objects,Stapler,Joining papers,Permanent paper fastening,changed,Differentiate from temporary paper fastening.
+Everyday Objects,Paper Clip,Joining papers,Temporary paper fastening,changed,Differentiate from permanent paper fastening.
+Everyday Objects,Scissors,Craft supplies,Cutting materials,changed,Craft supplies alone was too vague.
+Everyday Objects,Tape,Craft supplies,Sticking materials,changed,Craft supplies alone was too vague.
+Everyday Objects,Rubber Band,Stretchy fastener,Stretchy fastener,retained,Retains use context without the object name.
+Everyday Objects,Remote Control,Controlling devices,Controlling devices,retained,Retains use context without the object name.
+Everyday Objects,Mirror,Getting ready,Getting ready,retained,Retains use context without the object name.
+Everyday Objects,Comb,Hair care,Hair care,retained,Retains use context without the object name.
+Everyday Objects,Razor,Personal grooming,Smooth skin,changed,Narrow generic grooming context.
+Everyday Objects,Nail Clippers,Personal grooming,Small grooming tool,changed,Narrow generic grooming context without naming the body part.
+Everyday Objects,Lip Balm,Dry-weather care,Dry-weather care,retained,Retains use context without the object name.
+Everyday Objects,Hand Sanitizer,Quick cleanup,Quick cleanup,retained,Retains use context without the object name.
+Everyday Objects,Reusable Bag,Carrying purchases,Carrying purchases,retained,Retains use context without the object name.
